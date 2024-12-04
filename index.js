@@ -51,6 +51,8 @@ const test = (text) => {
     }
 }
 
+// "node index.js" to run the code
+
 const s1 = "()[]{}"     //true
 const s2 = "([)]"       //false
 const s3 = "(]"         //false
